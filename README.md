@@ -14,14 +14,15 @@ There are only 2 rules:
 2. no added sugar 
 3. protein : fat ratio greater than 1
 
-Number 1 means no pasta or bread (unless it's 100% whole wheat), nothing with bread crumbs, no pastries, no pancakes, etc. The principle behind this rule is that processed grains have lost all nutritional value that is stored in the bran and germ. During refinement processes these are removed leaving only the Endosperm of which the primary function is energy production. This means that consumption of simple carbs like these are processed very quickly and as a result cause a spike in the blood glucose levels. It is in response to this spike that your body produces insulin in order to balance it out and store it as fat.
+**Number 1** means no pasta or bread (unless it's 100% whole wheat), nothing with bread crumbs, no pastries, no pancakes, etc. The principle behind this rule is that processed grains have lost all nutritional value that is stored in the bran and germ. During refinement processes these are removed leaving only the Endosperm of which the primary function is energy production. This means that consumption of simple carbs like these are processed very quickly and as a result cause a spike in the blood glucose levels. It is in response to this spike that your body produces insulin in order to balance it out and store it as fat.
 
-![Whole Grain](http://www.wheatmontana.com/sites/default/files/WM_Whole%20Grain%20Health_The%20Anatomy%20of%20a%20Grain.png)
-Format: ![diagram of a whole grain](url)
+![Whole Grain Digram](http://www.wheatmontana.com/sites/default/files/WM_Whole%20Grain%20Health_The%20Anatomy%20of%20a%20Grain.png)
 
-Number 2 means no candy, no popsicles, no chocolate, no ice cream, no soda, pretty much no sauces (since most have some hidden added sugar), etc. I also avoid fruit juices since they lack the fiber which slows down the breakdown of sugar. Since sugars are also simple carbs, the justification for number 1 also follows for number 2.
+**Number 2** means no candy, no popsicles, no chocolate, no ice cream, no soda, pretty much no sauces (since most have some hidden added sugar), etc. I also avoid fruit juices since they lack the fiber which slows down the breakdown of sugar. Since sugars are also simple carbs, the justification for number 1 also follows for number 2.
 
-Number 3 means no fatty proteins like bacon, rib eye, cheese, pork chops, etc. This rule is knid of arbitrary except for the fact that fats are more calorically dense than other macro nutrients (carbs and proteins). They pack 9 calories per gram vs 4. As a result, we need to eat less to get the same amount of energy. Excess energy means it gets stored as fat, so we want to avoid that.
+![Glycemic Index Graph](https://blogs.commons.georgetown.edu/gufoodstudies/files/2013/06/High-GI-vs-Low-GI-examples.jpg)
+
+**Number 3** means no fatty proteins like bacon, rib eye, cheese, pork chops, etc. This rule is knid of arbitrary except for the fact that fats are more calorically dense than other macro nutrients (carbs and proteins). They pack 9 calories per gram vs 4. As a result, we need to eat less to get the same amount of energy. Excess energy means it gets stored as fat, so we want to avoid that.
 
 Okay, so what can I eat and drink if I can't eat all of those things?
 
